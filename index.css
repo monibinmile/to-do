@@ -1,0 +1,28 @@
+.to{
+  height: 350px;
+  width: 6;
+  box-sizing: border-box;
+  color: aqua;
+  text-align: center;
+  background-color: rgb(212, 88, 243);
+  margin-top: 8%;
+  margin-left: 25%;
+  margin-right: 25%;
+
+
+}
+#push{
+  width:8%;
+  height: 12%;
+  color:white;
+  background-color: blue;
+}
+input{
+  margin-left: 10%;
+}
+h2{
+  margin-top: 2%;
+}
+body{
+  background-color: black;
+}
